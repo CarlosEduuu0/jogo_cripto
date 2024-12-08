@@ -11,3 +11,4 @@ bem vindo ao otpirc um jogo  de criptoografia feito no rpg maker 👾;
 
 ✅objetivo:aprender sobre criptografia enquato ganha uma guerra no processo;
 
+como executar:baixe o repositorio va no arquivo game e execute 
